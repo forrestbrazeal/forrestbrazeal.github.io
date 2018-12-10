@@ -17,7 +17,7 @@ title: A Cloud Guru's FaaS and Furious
 tab_title: FaaS and Furious #This text shows up on the browser tab
 email:
 description: Weekly tech webcomic by Forrest Brazeal
-url: https://forrestbrazeal.github.io/faas-and-furious/ # the base hostname & protocol for your site
+url: https://forrestbrazeal.github.io/faas-and-furious # the base hostname & protocol for your site
 
 # Comic Social Media
 twitter_username: https://twitter.com/acloudguru
