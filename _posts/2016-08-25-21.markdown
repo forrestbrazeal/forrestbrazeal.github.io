@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Rubber Duck Debugging
+categories: page
+permalink: /21
+image: rubber-duck-debugging.png
+date: 2016-08-25
+---
+
+![Rubber Duck Debugging]({{ site.url }}/pages/{{ page.image }} "I'd suggest duck typing, but I don't have any fingers." )

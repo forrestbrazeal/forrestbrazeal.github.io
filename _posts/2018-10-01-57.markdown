@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Monitorless
+categories: page
+permalink: /57
+image: monitorless.png
+date: 2018-10-01
+---
+
+![Monitorless]({{ site.url }}/pages/{{ page.image }} "Monitor 1: work email and Slack. Monitor 2: VS Code. Monitor 3: Chrome. Monitor 4: Personal email and chat. Monitor 5: information overload contributing to a legitimate mental health issue." )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Dead on Arrival
+categories: page
+permalink: /29
+image: dead-on-arrival.png
+date: 2017-11-28
+---
+
+![Dead on Arrival]({{ site.url }}/pages/{{ page.image }} "Our latest product is just a 301 redirect to the AWS 'What's New' page." )

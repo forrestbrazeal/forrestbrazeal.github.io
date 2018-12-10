@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Wakeup Call
+categories: page
+permalink: /24
+image: wakeup-call.png
+date: 2017-05-01
+---
+
+![Wakeup Call]({{ site.url }}/pages/{{ page.image }} "The door to software developer heaven has two sides. On one side is written 'NoOps'. The other side says '...because you are the ops now. Also, this isn't heaven.'" )

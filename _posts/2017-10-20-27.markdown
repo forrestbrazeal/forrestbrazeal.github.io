@@ -1,0 +1,10 @@
+---
+layout: comic
+title: KPI
+categories: page
+permalink: /27
+image: kpi.png
+date: 2017-10-20
+---
+
+![KPI]({{ site.url }}/pages/{{ page.image }} "(Apologies to the inimitable Charity Majors.)" )

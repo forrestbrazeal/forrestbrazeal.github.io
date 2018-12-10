@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Multicloud Strategy
+categories: page
+permalink: /55
+image: multicloud-strategy.png
+date: 2018-09-17
+---
+
+![Multicloud Strategy]({{ site.url }}/pages/{{ page.image }} "Here's the dirty secret of startups that trade on having a 'better developer experience' than your cloud provider: ultimately, juggling two different vendors is the worst experience of all." )

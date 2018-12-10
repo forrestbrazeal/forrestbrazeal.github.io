@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Cloud Architect
+categories: page
+permalink: /4
+image: cloud-architect.png
+date: 2015-06-26
+---
+
+![Cloud Architect]({{ site.url }}/pages/{{ page.image }} "On the ninth day, a snake appeared and suggested refactoring everything in Python." )

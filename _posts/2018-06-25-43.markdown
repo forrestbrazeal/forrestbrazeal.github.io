@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Internet of Toast
+categories: page
+permalink: /43
+image: internet-of-toast.png
+date: 2018-06-25
+---
+
+![Internet of Toast]({{ site.url }}/pages/{{ page.image }} "Wait til I show you what happens when the front doorbell rings." )

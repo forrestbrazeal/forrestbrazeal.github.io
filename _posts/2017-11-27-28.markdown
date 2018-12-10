@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Barrstruck
+categories: page
+permalink: /28
+image: barrstruck.png
+date: 2017-11-27
+---
+
+![Barrstruck]({{ site.url }}/pages/{{ page.image }} "A true Barr-raiser." )

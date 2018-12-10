@@ -1,0 +1,10 @@
+---
+layout: comic
+title: PTO
+categories: page
+permalink: /56
+image: pto.png
+date: 2018-09-24
+---
+
+![PTO]({{ site.url }}/pages/{{ page.image }} "It was the time he took off work to make this Alexa skill, in fact, that led directly to the loss of his previous job." )

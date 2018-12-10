@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Goodnight Cloud
+categories: page
+permalink: /9
+image: goodnight-cloud.png
+date: 2015-07-31
+---
+
+![Goodnight Cloud]({{ site.url }}/pages/{{ page.image }} "Self-deprecating ignorance of basic technological realities begins at home." )

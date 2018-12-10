@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Executive Decision
+categories: page
+permalink: /13
+image: executive-decision.png
+date: 2015-08-28
+---
+
+![Executive Decision]({{ site.url }}/pages/{{ page.image }} "'And in our ongoing effort to let clueless business people make high-level technical decisions, let's continue this discussion on the flannelgraph next door.'" )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: IT Horror Movies 2
+categories: page
+permalink: /37
+image: it-horror-movies-2.png
+date: 2018-05-14
+---
+
+![IT Horror Movies 2]({{ site.url }}/pages/{{ page.image }} "Sure, DevOps is really a culture, not a job title. But there are some weird things growing in that culture." )

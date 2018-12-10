@@ -1,0 +1,10 @@
+---
+layout: comic
+title: 10x Developer
+categories: page
+permalink: /22
+image: 10x-developer.png
+date: 2016-10-10
+---
+
+![10x Developer]({{ site.url }}/pages/{{ page.image }} "Your resume really caught my eye because of your past work as a rockstar and a ninja." )

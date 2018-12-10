@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Liftoff
+categories: page
+permalink: /31
+image: liftoff.png
+date: 2017-11-30
+---
+
+![Liftoff]({{ site.url }}/pages/{{ page.image }} "The four-year return trip should be about enough time to catch up on all the session videos." )

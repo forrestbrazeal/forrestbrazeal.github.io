@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Naming Convention
+categories: page
+permalink: /10
+image: naming-convention.png
+date: 2015-08-07
+---
+
+![Naming Convention]({{ site.url }}/pages/{{ page.image }} "We keep close tabs on these things. Or is it spaces?" )

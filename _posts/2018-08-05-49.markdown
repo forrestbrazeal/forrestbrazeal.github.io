@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Cloud Adoption
+categories: page
+permalink: /49
+image: cloud-adoption.png
+date: 2018-08-05
+---
+
+![Cloud Adoption]({{ site.url }}/pages/{{ page.image }} "Gary heard the adoption project was getting expensive. He wants to know if we considered cloud IVF?" )

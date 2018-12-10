@@ -1,0 +1,10 @@
+---
+layout: comic
+title: More New AWS Services
+categories: page
+permalink: /64
+image: more-new-aws-services.png
+date: 2018-11-29
+---
+
+![More New AWS Services]({{ site.url }}/pages/{{ page.image }} "Amazon AWS BrandLint: Corrects you when you mistakenly use 'Amazon' instead of 'AWS', or vice versa, when referring to any of these services." )

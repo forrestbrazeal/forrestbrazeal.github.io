@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Out of Office
+categories: page
+permalink: /16
+image: ooo.png
+date: 2015-12-25
+---
+
+![Out of Office]({{ site.url }}/pages/{{ page.image }} "When Microsoft Outlook passes the Turing Test, we can all go home forever." )

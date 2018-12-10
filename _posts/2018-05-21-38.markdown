@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Not Technical
+categories: page
+permalink: /38
+image: not-technical.png
+date: 2018-05-21
+---
+
+![Not Technical]({{ site.url }}/pages/{{ page.image }} "Current voice assistant technology is kinda annoying and not that useful, which makes an astonishing number of real-life jobs obsolete." )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Readable Code
+categories: page
+permalink: /12
+image: readable-code.png
+date: 2015-08-21
+---
+
+![Readable Code]({{ site.url }}/pages/{{ page.image }} "> Write a macro that turns up the screen brightness for anyone who opens the source file." )

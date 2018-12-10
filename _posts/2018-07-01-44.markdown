@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Config Hell
+categories: page
+permalink: /44
+image: config-hell.png
+date: 2018-07-01
+---
+
+![Config Hell]({{ site.url }}/pages/{{ page.image }} "You'll be issued one of our special linters. It will tell you there is a syntax error in your five thousand lines of config, but will give you no clues as to where. Enjoy your stay!" )

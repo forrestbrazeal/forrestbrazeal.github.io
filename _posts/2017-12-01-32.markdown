@@ -1,0 +1,10 @@
+---
+layout: comic
+title: New AWS Services
+categories: page
+permalink: /32
+image: new-aws-services.png
+date: 2017-12-01
+---
+
+![New AWS Services]({{ site.url }}/pages/{{ page.image }} "If you find AWS Timberwolf difficult to manage, you may be interested in an early preview of the AWS Timberwolf Container Service." )

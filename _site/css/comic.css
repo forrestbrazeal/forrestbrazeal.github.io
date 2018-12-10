@@ -3,9 +3,8 @@
 body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 15px;
-  color: #424142;
   padding-top: 20px;
-  background-image: url(https://peahatlanding.github.io/Plain-Webcomic//images/grid.png);
+  background-image: url(http://127.0.0.1:4000/images/grid.png);
   background-color: gray;
 }
 
@@ -56,7 +55,7 @@ body {
 /*=============================*/
 
 .jumbotron {
-  background-image: url(https://peahatlanding.github.io/Plain-Webcomic//images/header-bg.jpg);
+  background-image: url(http://127.0.0.1:4000/images/header-bg.jpg);
   font-family: 'Fredoka One', cursive;
 }
 
@@ -72,18 +71,21 @@ body {
 
 .jumbotron h1 {
   font-family: 'Fredoka One', cursive;
+  color: #ffffff;
 }
 
 .jumbotron p {
   font-family: 'Roboto', sans-serif;
+  color: #ffffff;
 }
 
 .jumbotron a {
-  color: #424142;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .jumbotron a:visited {
-  color: #424142;
+  color: #ffffff;
 }
 
 
@@ -137,4 +139,17 @@ body {
 .comic-panel {
   max-width: 700px;
   margin-left: auto;
+}
+
+.comic-panel h2 {
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+}
+
+.comic-panel p {
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+  font-family: 'Arvo', serif;
 }

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Cloud Analyst
+categories: page
+permalink: /11
+image: cloud-analyst.png
+date: 2015-08-14
+---
+
+![Cloud Analyst]({{ site.url }}/pages/{{ page.image }} "No wonder you have so many insecurities." )

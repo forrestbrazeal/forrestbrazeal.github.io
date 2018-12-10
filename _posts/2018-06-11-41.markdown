@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Servers Are Pets
+categories: page
+permalink: /41
+image: servers-are-pets.png
+date: 2018-06-11
+---
+
+![Servers Are Pets]({{ site.url }}/pages/{{ page.image }} "'But isn't us-east-1 a raging tire fire?' 'Ssh. Ssh.'" )

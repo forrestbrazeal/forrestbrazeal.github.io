@@ -1,0 +1,10 @@
+---
+layout: comic
+title: All Wet
+categories: page
+permalink: /35
+image: all-wet.png
+date: 2018-04-30
+---
+
+![All Wet]({{ site.url }}/pages/{{ page.image }} "It's not private if everyone can see you fail." )

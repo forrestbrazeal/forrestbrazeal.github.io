@@ -1,0 +1,10 @@
+---
+layout: comic
+title: FUD
+categories: page
+permalink: /58
+image: fud.png
+date: 2018-10-08
+---
+
+![FUD]({{ site.url }}/pages/{{ page.image }} "'Our time-honored Enterprise Security Assessment will unfailingly identify the most expensive things we could possibly do for you.'" )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Blameless Postmortem
+categories: page
+permalink: /34
+image: blameless-postmortem.png
+date: 2017-12-30
+---
+
+![Blameless Postmortem]({{ site.url }}/pages/{{ page.image }} "Пожалуйста, верните нам наши данные." )

@@ -39,14 +39,17 @@
         <div class="col-md-12 center">
           {% include navigation.html %}
           <div class="panel center col-md-12">
-
             <div class="comic-panel center">
-              <a name="top-page"></a>
-              <a href= {{ site.url }}{{ page.next.url }}#top-page>{{ content }}</a>
+              <h2>{{ page.title }}</h2>
               <ul class="pager">
-                <li><a class="btn btn-outline-secondary" href= {{ site.url }}{{ page.previous.url }}#top-page >PREVIOUS</a></li>
-                <li><a class="btn btn-outline-primary" href= {{ site.url }}{{ page.next.url }}#top-page >NEXT</a></li>
+                  <li><a class="btn btn-outline-primary" href= {{ site.url }}/1 >|&lt;</a></li>
+                <li><a class="btn btn-outline-secondary" href= {{ site.url }}{{ page.previous.url }} >prev</a></li>
+                <li><a class="btn btn-outline-primary" href= {{ site.url }}{{ page.next.url }} >next</a></li>
+                <li><a class="btn btn-outline-primary" href= {{ site.url }} >&gt;|</a></li>
               </ul>
+              {{ content }}
+              <p>Permalink: {{ site.url }}{{page.permalink}}</p>
+              <p>Image URL: {{ site.url }}/pages/{{ page.image }}</p>
             </div><!--comic div-->
 
         </div><!--end panel-->

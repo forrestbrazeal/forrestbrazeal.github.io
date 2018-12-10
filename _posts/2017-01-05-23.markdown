@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Falsehoods About Time
+categories: page
+permalink: /23
+image: falsehoods-about-time.png
+date: 2017-01-05
+---
+
+![Falsehoods About Time]({{ site.url }}/pages/{{ page.image }} "The mythical man month? Pretty sure our date library handles that." )

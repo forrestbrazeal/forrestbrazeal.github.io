@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Desert Island
+categories: page
+permalink: /39
+image: desert-island.png
+date: 2018-05-28
+---
+
+![Desert Island]({{ site.url }}/pages/{{ page.image }} "Things you don't worry about with serverless..." )

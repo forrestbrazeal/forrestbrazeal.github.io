@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your Comic Title</title>
-    <description>Here's the description of your comic!</description>
-    <link>https://peahatlanding.github.io/Plain-Webcomic//</link>
-    <atom:link href="https://peahatlanding.github.io/Plain-Webcomic//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Aug 2017 19:15:20 -0700</pubDate>
-    <lastBuildDate>Tue, 01 Aug 2017 19:15:20 -0700</lastBuildDate>
+    <title>A Cloud Guru's FaaS and Furious</title>
+    <description>Weekly tech-ish webcomic by Forrest Brazeal</description>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Dec 2018 16:45:28 -0500</pubDate>
+    <lastBuildDate>Mon, 10 Dec 2018 16:45:28 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>4</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://peahatlanding.github.io/Plain-Webcomic//pages/004.png&quot; alt=&quot;PAGE FOUR&quot; /&gt;&lt;/p&gt;
+        <title>What Lies Beneath</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/what-lies-beneath.png&quot; alt=&quot;What Lies Beneath&quot; title=&quot;Both icebergs, of course, are more than big enough to sink that poor ship.&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>https://peahatlanding.github.io/Plain-Webcomic//004</link>
-        <guid isPermaLink="true">https://peahatlanding.github.io/Plain-Webcomic//004</guid>
+        <pubDate>Thu, 06 Dec 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/66</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/66</guid>
         
         
         <category>page</category>
@@ -23,12 +23,12 @@
       </item>
     
       <item>
-        <title>3</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://peahatlanding.github.io/Plain-Webcomic//pages/003.png&quot; alt=&quot;PAGE THREE&quot; /&gt;&lt;/p&gt;
+        <title>re:Gret</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/re-gret.png&quot; alt=&quot;re:Gret&quot; title=&quot;Thanks to everyone who made re:Invent 2018 awesome!&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>https://peahatlanding.github.io/Plain-Webcomic//003</link>
-        <guid isPermaLink="true">https://peahatlanding.github.io/Plain-Webcomic//003</guid>
+        <pubDate>Fri, 30 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/65</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/65</guid>
         
         
         <category>page</category>
@@ -36,12 +36,12 @@
       </item>
     
       <item>
-        <title>2</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://peahatlanding.github.io/Plain-Webcomic//pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
+        <title>More New AWS Services</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/more-new-aws-services.png&quot; alt=&quot;More New AWS Services&quot; title=&quot;Amazon AWS BrandLint: Corrects you when you mistakenly use 'Amazon' instead of 'AWS', or vice versa, when referring to any of these services.&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>https://peahatlanding.github.io/Plain-Webcomic//002</link>
-        <guid isPermaLink="true">https://peahatlanding.github.io/Plain-Webcomic//002</guid>
+        <pubDate>Thu, 29 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/64</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/64</guid>
         
         
         <category>page</category>
@@ -49,12 +49,90 @@
       </item>
     
       <item>
-        <title>1</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://peahatlanding.github.io/Plain-Webcomic//pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
+        <title>Crowdsurfing</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/crowdsurfing.png&quot; alt=&quot;Crowdsurfing&quot; title=&quot;I 100% believe that Werner can afford to have classic rock acts performed in his living room. On a serverless pricing model, of course.&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>https://peahatlanding.github.io/Plain-Webcomic//001</link>
-        <guid isPermaLink="true">https://peahatlanding.github.io/Plain-Webcomic//001</guid>
+        <pubDate>Wed, 28 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/63</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/63</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>Cracking the Code</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/cracking-the-code.png&quot; alt=&quot;Cracking The Code&quot; title=&quot;Unfortunately, Matt's carefully-laid plans went for naught when he was seduced by one of those Oracle cars saying he could 'cut his AWS bill in half -- guaranteed.' He was never seen again.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/62</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/62</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>HQ2</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/hq2.png&quot; alt=&quot;HQ2&quot; title=&quot;Next year, we plan on bidding re:Invent out to twenty different cities, but honestly I have a feeling we'll end up right back here.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/61</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/61</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>Architecture Diagram</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/architecture-diagram.png&quot; alt=&quot;Architecture Diagram&quot; title=&quot;I believe these boxes up here are called 'breakout sessions'.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/60</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/60</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>Vote Your Conscience</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/vote-your-conscience.png&quot; alt=&quot;Vote Your Conscience&quot; title=&quot;No joke, I recently encountered someone who pronounced 'IAM' as 'yawm'. Took me half the conversation to realize what the heck they were talking about.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/59</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/59</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>FUD</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/fud.png&quot; alt=&quot;FUD&quot; title=&quot;'Our time-honored Enterprise Security Assessment will unfailingly identify the most expensive things we could possibly do for you.'&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://127.0.0.1:4000/58</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/58</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>Monitorless</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/pages/monitorless.png&quot; alt=&quot;Monitorless&quot; title=&quot;Monitor 1: work email and Slack. Monitor 2: VS Code. Monitor 3: Chrome. Monitor 4: Personal email and chat. Monitor 5: information overload contributing to a legitimate mental health issue.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://127.0.0.1:4000/57</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/57</guid>
         
         
         <category>page</category>

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Eavesdropping
+categories: page
+permalink: /48
+image: eavesdropping.png
+date: 2018-07-29
+---
+
+![Eavesdropping]({{ site.url }}/pages/{{ page.image }} "'Your friends said, 'I wonder if Brad is using that creepy voice assistant to spy on us.'" )

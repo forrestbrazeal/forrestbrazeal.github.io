@@ -13,24 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your Comic Title
-tab_title: Your Comic! #This text shows up on the browser tab
+title: A Cloud Guru's FaaS and Furious 
+tab_title: FaaS and Furious #This text shows up on the browser tab
 email:
-description: Here's the description of your comic!
-url: "https://peahatlanding.github.io/Plain-Webcomic/" # the base hostname & protocol for your site
+description: Weekly tech webcomic by Forrest Brazeal
+url: https://forrestbrazeal.github.io/faas-and-furious/ # the base hostname & protocol for your site
 
 # Comic Social Media
-twitter_username: http://twitter.com/peahat
-tumblr_username: http://peahat.tumblr.com
-patreon_username: peahat
+twitter_username: https://twitter.com/acloudguru
 
 # Author Social Media
-author_twitter_username:
-author_tumblr_username:
-author_patreon_username:
-
-
+author_twitter_username: https://twitter.com/forrestbrazeal
+author_linkedin_username: https://linkedin.com/in/forrestbrazeal
+author_github_username: https://github.com/forrestbrazeal
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+plugins:
+  - jekyll-redirect-from

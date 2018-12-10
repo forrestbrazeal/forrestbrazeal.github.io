@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Crowdsurfing
+categories: page
+permalink: /63
+image: crowdsurfing.png
+date: 2018-11-28
+---
+
+![Crowdsurfing]({{ site.url }}/pages/{{ page.image }} "I 100% believe that Werner can afford to have classic rock acts performed in his living room. On a serverless pricing model, of course." )

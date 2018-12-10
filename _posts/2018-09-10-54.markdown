@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Weighed Down
+categories: page
+permalink: /54
+image: weighed-down.png
+date: 2018-09-10
+---
+
+![Weighed Down]({{ site.url }}/pages/{{ page.image }} "I've got total flexibility here, as long as I can keep bringing Craig and Ed out of retirement to fix the mainframe." )

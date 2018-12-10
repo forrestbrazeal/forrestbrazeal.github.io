@@ -1,0 +1,10 @@
+---
+layout: comic
+title: CI
+categories: page
+permalink: /3
+image: ci.png
+date: 2015-06-18
+---
+
+![CI]({{ site.url }}/pages/{{ page.image }} "When you get right down to it, not being agile usually requires more agility than any other strategy. Especially if people start throwing things at you." )

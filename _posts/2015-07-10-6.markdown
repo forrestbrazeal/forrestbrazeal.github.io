@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Cloud Security
+categories: page
+permalink: /6
+image: cloud-security.png
+date: 2015-07-10
+---
+
+![Cloud Security]({{ site.url }}/pages/{{ page.image }} "'I'll just keep backing everything up to floppy disks and burying them in my backyard.'" )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: HQ2
+categories: page
+permalink: /61
+image: hq2.png
+date: 2018-11-26
+---
+
+![HQ2]({{ site.url }}/pages/{{ page.image }} "Next year, we plan on bidding re:Invent out to twenty different cities, but honestly I have a feeling we'll end up right back here." )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Vote Your Conscience
+categories: page
+permalink: /59
+image: vote-your-conscience.png
+date: 2018-11-05
+---
+
+![Vote Your Conscience]({{ site.url }}/pages/{{ page.image }} "No joke, I recently encountered someone who pronounced 'IAM' as 'yawm'. Took me half the conversation to realize what the heck they were talking about." )

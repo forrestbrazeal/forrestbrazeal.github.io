@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Famous Last Words
+categories: page
+permalink: /19
+image: famous-last-words.png
+date: 2016-04-28
+---
+
+![Famous Last Words]({{ site.url }}/pages/{{ page.image }} "The graveyard is currently closed due to unscheduled maintenance." )

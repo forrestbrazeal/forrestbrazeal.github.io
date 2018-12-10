@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Tribal Warfare
+categories: page
+permalink: /46
+image: tribal-warfare.png
+date: 2018-07-15
+---
+
+![Tribal Warfare]({{ site.url }}/pages/{{ page.image }} "Then, without warning, a wild service discovery issue appeared and gobbled up both tribes instantaneously." )

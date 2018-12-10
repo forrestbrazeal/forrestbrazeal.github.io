@@ -1,0 +1,10 @@
+---
+layout: comic
+title: IT Horror Movies
+categories: page
+permalink: /36
+image: it-horror-movies.png
+date: 2018-05-07
+---
+
+![IT Horror Movies]({{ site.url }}/pages/{{ page.image }} "Technically, this is Frankencloud's Monster. Dr. Frankencloud himself is an Oracle consultant whose LinkedIn headline is VISIONARY \ CIO \ THOUGHT LEADER \ INFLUENCER." )

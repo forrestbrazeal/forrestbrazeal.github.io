@@ -1,0 +1,10 @@
+---
+layout: comic
+title: MagicDB
+categories: page
+permalink: /52
+image: magic-db.png
+date: 2018-08-26
+---
+
+![MagicDB]({{ site.url }}/pages/{{ page.image }} "'Is MagicDB encrypted at rest?' 'Absolutely, it's total gibberish. Next question?'" )

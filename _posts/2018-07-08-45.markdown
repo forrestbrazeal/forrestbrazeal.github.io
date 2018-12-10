@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Repeat Offender
+categories: page
+permalink: /45
+image: repeat-offender.png
+date: 2018-07-08
+---
+
+![Repeat Offender]({{ site.url }}/pages/{{ page.image }} "'In fairness, the bucket did carry a gigantic sign saying I AM EXPOSED. So that was ... helpful?'" )

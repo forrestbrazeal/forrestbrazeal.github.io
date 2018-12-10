@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Cloud Natives
+categories: page
+permalink: /47
+image: cloud-natives.png
+date: 2018-07-22
+---
+
+![Cloud Natives]({{ site.url }}/pages/{{ page.image }} "The child will be raised according to all the latest best practices: configuration management, drift detection, and if he gets irredeemably borked we'll just phase him out and spin up a new one." )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Source Control
+categories: page
+permalink: /2
+image: source-control.png
+date: 2015-06-12
+---
+
+![Source Control]({{ site.url }}/pages/{{ page.image }} "Maybe we should just rebase." )

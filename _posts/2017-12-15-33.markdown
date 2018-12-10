@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Lift and Shift
+categories: page
+permalink: /33
+image: lift-and-shift.png
+date: 2017-12-15
+---
+
+![Lift and Shift]({{ site.url }}/pages/{{ page.image }} "We've also told everyone we're 'all in' with our cloud provider. That should get us some awesome discounts, right?" )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: TTL
+categories: page
+permalink: /50
+image: ttl.png
+date: 2018-08-12
+---
+
+![TTL]({{ site.url }}/pages/{{ page.image }} "The sea lions down there in the icy water will be happy to invalidate you." )

@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Project Manager
+categories: page
+permalink: /14
+image: project-manager.png
+date: 2015-09-05
+---
+
+![Project Manager]({{ site.url }}/pages/{{ page.image }} "I'm not even asking you for another date. But can we at least settle on a date for a date?" )

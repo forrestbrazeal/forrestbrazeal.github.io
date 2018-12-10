@@ -1,0 +1,10 @@
+---
+layout: comic
+title: re:Gret
+categories: page
+permalink: /65
+image: re-gret.png
+date: 2018-11-30
+---
+
+![re:Gret]({{ site.url }}/pages/{{ page.image }} "Thanks to everyone who made re:Invent 2018 awesome!" )

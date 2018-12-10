@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Deadline
+categories: page
+permalink: /17
+image: deadline.png
+date: 2016-01-01
+---
+
+![Deadline]({{ site.url }}/pages/{{ page.image }} "Modern software products don't schedule big releases anymore, but rather spew out a thin steady stream of incremental 'version upgrades', often delimited to the fourth decimal point. In theory, this means that broken code gets fixed faster. In practice, it means that software developers who once had to meet a single giant deadline every few months are now perpetually behind schedule, like Sisyphus rolling an ever-increasing blob of Javascript up a mountain. This is called being 'agile'." )

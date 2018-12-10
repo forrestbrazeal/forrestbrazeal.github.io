@@ -1,0 +1,10 @@
+---
+layout: comic
+title: 2FA
+categories: page
+permalink: /51
+image: 2fa.png
+date: 2018-08-19
+---
+
+![2FA]({{ site.url }}/pages/{{ page.image }} "Now finish your homework -- your report card caused some concern in our last change control meeting." )

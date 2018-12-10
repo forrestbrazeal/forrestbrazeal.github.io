@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Lemonade 0.1
+categories: page
+permalink: /18
+image: lemonade.png
+date: 2016-01-08
+---
+
+![Lemonade 0.1]({{ site.url }}/pages/{{ page.image }} "Haven't you read 'Worse is Better'? It's not that great of an essay, but that's *exactly what makes it so good!*" )

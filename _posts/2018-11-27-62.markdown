@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Cracking the Code
+categories: page
+permalink: /62
+image: cracking-the-code.png
+date: 2018-11-27
+---
+
+![Cracking The Code]({{ site.url }}/pages/{{ page.image }} "Unfortunately, Matt's carefully-laid plans went for naught when he was seduced by one of those Oracle cars saying he could 'cut his AWS bill in half -- guaranteed.' He was never seen again." )

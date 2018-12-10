@@ -1,0 +1,10 @@
+---
+layout: comic
+title: HA
+categories: page
+permalink: /7
+image: ha.png
+date: 2015-07-17
+---
+
+![HA]({{ site.url }}/pages/{{ page.image }} "Message him anytime...he's online, like, 99.999999999% of the time." )

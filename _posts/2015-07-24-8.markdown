@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Corp IT
+categories: page
+permalink: /8
+image: corp-it.png
+date: 2015-07-24
+---
+
+![Corp IT]({{ site.url }}/pages/{{ page.image }} "They're drunk on power. Or on whatever's in those mini-fridges under their desks." )

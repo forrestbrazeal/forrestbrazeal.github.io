@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Working From Home
+categories: page
+permalink: /5
+image: wfh.png
+date: 2015-07-03
+---
+
+![Working From Home]({{ site.url }}/pages/{{ page.image }} "If you make $80/hr working from home on your laptop, you might be a spambot, or you might just be the guy who wrote it." )

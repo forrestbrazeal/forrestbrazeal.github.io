@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Connoisseur
+categories: page
+permalink: /30
+image: connoisseur.png
+date: 2017-11-29
+---
+
+![Connoisseur]({{ site.url }}/pages/{{ page.image }} "Gotta catch 'em all." )

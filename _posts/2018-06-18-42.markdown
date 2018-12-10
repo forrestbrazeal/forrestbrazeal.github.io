@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Job Security
+categories: page
+permalink: /42
+image: job-security.png
+date: 2018-06-18
+---
+
+![Job Security]({{ site.url }}/pages/{{ page.image }} "Year One of the plan will be spent building a proof of no concept whatsoever." )

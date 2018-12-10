@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Baby Names
+categories: page
+permalink: /25
+image: baby-names.png
+date: 2017-09-13
+---
+
+![Baby Names]({{ site.url }}/pages/{{ page.image }} "The period from 2021-2028 is known among Primefolk as the Great Unpleasantness. But no more talk of these things, young Alexa. Let's turn on the lights and play some music." )

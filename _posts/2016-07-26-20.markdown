@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Real-World Coding Interview
+categories: page
+permalink: /20
+image: coding-interview.png
+date: 2016-07-26
+---
+
+![Real-World Coding Interview]({{ site.url }}/pages/{{ page.image }} "'When you finish whiteboarding the problem, I may ask you to code the same thing on a blackboard, just to gauge your effectiveness with different tools and frameworks.'" )
