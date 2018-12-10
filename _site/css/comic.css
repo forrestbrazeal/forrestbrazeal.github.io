@@ -4,7 +4,7 @@ body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 15px;
   padding-top: 20px;
-  background-image: url(http://127.0.0.1:4000/images/grid.png);
+  background-image: url(https://forrestbrazeal.github.io/faas-and-furious/images/grid.png);
   background-color: gray;
 }
 
@@ -55,7 +55,7 @@ body {
 /*=============================*/
 
 .jumbotron {
-  background-image: url(http://127.0.0.1:4000/images/header-bg.jpg);
+  background-image: url(https://forrestbrazeal.github.io/faas-and-furious/images/header-bg.jpg);
   font-family: 'Fredoka One', cursive;
 }
 
