@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: Cracking the Code
+title: "AWS re:Invent 2018: Cracking the Code"
 categories: page
 permalink: /62
 image: cracking-the-code.png

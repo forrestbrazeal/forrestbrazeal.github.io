@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: re:Gret
+title: "AWS re:Invent 2018: re:Gret"
 categories: page
 permalink: /65
 image: re-gret.png

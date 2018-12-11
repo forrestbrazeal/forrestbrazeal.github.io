@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: Crowdsurfing
+title: "AWS re:Invent 2018: Crowdsurfing"
 categories: page
 permalink: /63
 image: crowdsurfing.png

@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: HQ2
+title: "AWS re:Invent 2018: HQ2"
 categories: page
 permalink: /61
 image: hq2.png

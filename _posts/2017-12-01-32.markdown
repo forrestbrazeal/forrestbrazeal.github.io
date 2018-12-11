@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: New AWS Services
+title: "AWS re:Invent 2017: New AWS Services"
 categories: page
 permalink: /32
 image: new-aws-services.png

@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: Liftoff
+title: "AWS re:Invent 2017: Liftoff"
 categories: page
 permalink: /31
 image: liftoff.png

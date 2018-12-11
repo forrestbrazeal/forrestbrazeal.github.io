@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: Dead on Arrival
+title: "AWS re:Invent 2017: Dead on Arrival"
 categories: page
 permalink: /29
 image: dead-on-arrival.png

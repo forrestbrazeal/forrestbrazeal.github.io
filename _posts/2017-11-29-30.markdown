@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: Connoisseur
+title: "AWS re:Invent 2017: Connoisseur"
 categories: page
 permalink: /30
 image: connoisseur.png
