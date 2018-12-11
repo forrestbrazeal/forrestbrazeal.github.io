@@ -30,6 +30,3 @@ author_github_username: https://github.com/forrestbrazeal
 # Build settings
 markdown: kramdown
 theme: minima
-
-plugins:
-  - jekyll-redirect-from
