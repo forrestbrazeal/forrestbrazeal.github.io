@@ -137,6 +137,10 @@ body {
   text-align: center;
 }
 
+.navbar a {
+  color: #3b4966
+}
+
 
 
 /* COMIC PANEL STYLES */
