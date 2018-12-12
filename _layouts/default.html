@@ -29,11 +29,13 @@
     <link rel="stylesheet" href={{ site.url }}/css/comic.css>
 
     <!--Google Fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Arvo|Fredoka+One|Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Arvo|Fredoka+One|Roboto|San+Francisco" rel="stylesheet">
 
     <!-- Font Awesome-->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
+  
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png">
   </head>
 
   <body>
@@ -41,14 +43,14 @@
       <div class="row">
 
         <div class="jumbotron">
-          <a href={{ site.url }}><h1>{{ site.title }}</h1></a>
-          <p>{{ site.description }}</p>
+          <a href={{ site.url }}><img src="images/header.png" alt="FaaS and Furious"></a>
         </div>
 
         <div class="col-md-12 center">
             {% include navigation.html %}
           <div class="panel center col-md-12">
                   {{ content }}
+                  {% include acloudgurubanner.html %}
           </div><!-- end panel-->
         </div><!--end col-md-9 center-->
       </div><!--end row-->

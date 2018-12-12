@@ -13,10 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Cloud Guru's FaaS and Furious 
-tab_title: FaaS and Furious #This text shows up on the browser tab
+tab_title: FaaS and Furious - A Cloud Guru #This text shows up on the browser tab
 email:
-description: A weekly tech webcomic by Forrest Brazeal
 url: https://forrestbrazeal.github.io/faas-and-furious # the base hostname & protocol for your site
 
 # Comic Social Media

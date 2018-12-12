@@ -17,4 +17,4 @@ You are free to share these cartoons on social media, use them in slide decks, o
 
 {% include authorsocialmedia.html %}
 
-*Site theme adapted from [this](https://peahatlanding.github.io/Plain-Webcomic/)*
+*Webcomic theme adapted from [here](https://peahatlanding.github.io/Plain-Webcomic/).*

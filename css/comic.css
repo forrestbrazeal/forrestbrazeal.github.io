@@ -3,41 +3,42 @@
 /*CSS for comic site*/
 
 body {
-  font-family: 'Droid Sans', sans-serif;
+  /*font-family: 'San Francisco', sans-serif;*/
   font-size: 15px;
   padding-top: 20px;
-  background-image: url({{ site.url }}/images/grid.png);
-  background-color: gray;
+  background-color: #070247;
+  color: #3b4966;
 }
 
 .panel {
   background-color: white;
   min-height: 500px;
+  padding: 5px;
 }
 
 .panel p {
   padding: 0px 25px 0px 25px;
-  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Roboto', sans-serif;*/
 }
 
 .panel h1 {
   font-size: 30px;
   font-weight: regular;
-  font-family: 'Arvo', serif;
+  /*font-family: 'Arvo', serif;*/
   padding: 0px 25px 0px 25px;
 }
 
 .panel h2 {
   font-size: 20px;
   font-weight: bold;
-  font-family: 'Arvo', serif;
+  /*font-family: 'Arvo', serif;*/
   padding: 0px 25px 0px 25px;
 }
 
 .panel h3 {
   font-size: 14px;
   font-weight: bold;
-  font-family: 'Arvo', serif;
+  /*font-family: 'Arvo', serif;*/
   padding: 0px 25px 0px 25px;
 }
 
@@ -57,13 +58,13 @@ body {
 /*=============================*/
 
 .jumbotron {
-  background-image: url({{ site.url }}/images/header-bg.jpg);
-  font-family: 'Fredoka One', cursive;
+  /*background-image: url({{ site.url }}/images/header.png);*/
+  /*font-family: 'Fredoka One', cursive;*/
 }
 
 .container .jumbotron {
-  padding: 30px 0px 30px 0px;
-  text-align: center; //left, right, or center
+  padding: 0px;
+  text-align: center;
 }
 
 .jumbotron img {
@@ -72,12 +73,12 @@ body {
 }
 
 .jumbotron h1 {
-  font-family: 'Fredoka One', cursive;
+  /*font-family: 'Fredoka One', cursive;*/
   color: #ffffff;
 }
 
 .jumbotron p {
-  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Roboto', sans-serif;*/
   color: #ffffff;
 }
 
@@ -103,6 +104,7 @@ body {
 .archive-ul {
   margin: 0px;
   list-style: none;
+  color: #3b4966;
 }
 
 
@@ -123,7 +125,7 @@ body {
 }
 
 .navbar .navbar-nav {
-  font-family: 'Arvo', serif;
+  /*font-family: 'Arvo', serif;*/
   margin-left: auto;
   display: inline-block;
   float: none;
@@ -146,12 +148,20 @@ body {
 .comic-panel h2 {
   text-align: center;
   text-decoration: none;
-  color: #000000;
+  color: #3b4966;
 }
 
 .comic-panel p {
   text-align: center;
   text-decoration: none;
   color: #000000;
-  font-family: 'Arvo', serif;
+  /*font-family: 'Arvo', serif;*/
+}
+
+a {
+  color: #fc8918
+}
+
+a:hover {
+  color: #6c6c94
 }
