@@ -1,6 +1,6 @@
 ---
 layout: comic
-title: Barrstruck
+title: "AWS re:Invent 2017: Barrstruck"
 categories: page
 permalink: /28
 image: barrstruck.png
