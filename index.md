@@ -1,12 +1,12 @@
 ---
 layout: home
-title: What Lies Beneath
+title: Moral Victory
 categories: page
+image: moral-victory.png
+date: 2018-12-13
 permalink: /
-n: /66
-n-minus-one: /65
-image: what-lies-beneath.png
-date: 2018-12-06
+n: /67
+n-minus-one: /66
 ---
 
-![What Lies Beneath]({{ site.url }}/pages/{{ page.image }} "Both icebergs, of course, are more than big enough to sink that poor ship." )
+![Moral Victory]({{ site.url }}/pages/{{ page.image }} "We had magnificent machine learning models, devastating data models ... we just never came up with a business model." )

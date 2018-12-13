@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Moral Victory
+categories: page
+permalink: /67
+image: moral-victory.png
+date: 2018-12-13
+---
+
+![What Lies Beneath]({{ site.url }}/pages/{{ page.image }} "We had magnificent machine learning models, devastating data models ... we just never came up with a business model." )
