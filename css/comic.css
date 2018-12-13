@@ -80,6 +80,8 @@ body {
 .jumbotron p {
   /*font-family: 'Roboto', sans-serif;*/
   color: #ffffff;
+  background-color: #070247;
+  font-weight: bold;
 }
 
 .jumbotron a {

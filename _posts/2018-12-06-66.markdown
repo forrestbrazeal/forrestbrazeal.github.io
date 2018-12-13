@@ -7,4 +7,4 @@ image: what-lies-beneath.png
 date: 2018-12-06
 ---
 
-![What Lies Beneath]({{ site.url }}/pages/{{ page.image }} "Both icebergs, of course, are more than big enough to sink that poor ship." )
+![What Lies Beneath]({{ site.url }}/pages/{{ page.image }} "Either iceberg, of course, is more than big enough to sink that poor ship." )
