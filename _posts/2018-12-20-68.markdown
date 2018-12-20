@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Acolyte
 categories: page
+permalink: /68
 image: acolyte.png
 date: 2018-12-20
-permalink: /
-n: /68
-n-minus-one: /67
 ---
 
 ![Acolyte]({{ site.url }}/pages/{{ page.image }} "My whole class loved your TEDx talk on coal-based negative reinforcement for minor infractions. Haha! But seriously, you scared the crap out of us." )
