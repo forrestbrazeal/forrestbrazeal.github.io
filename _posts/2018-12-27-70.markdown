@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Safe Space
 categories: page
+permalink: /70
 image: safe-space.png
 date: 2018-12-27
-permalink: /
-n: /70
-n-minus-one: /69
 ---
 
 ![Safe Space]({{ site.url }}/pages/{{ page.image }} "I think that instead of having cute nicknames from Star Wars, huddle rooms should all be named after famous disasters that occurred there. Room 302 ('Four-Hour Conference Call'), Room 311 ('Prod Outage'), Room 319 ('Inadvertent Screen Share')..." )
