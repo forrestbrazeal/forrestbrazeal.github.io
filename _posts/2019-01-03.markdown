@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Debugging Tactics
 categories: page
+permalink: /71
 image: debugging-tactics.png
 date: 2019-01-03
-permalink: /
-n: /71
-n-minus-one: /70
 ---
 
 ![Debugging Tactics]({{ site.url }}/pages/{{ page.image }} "'Question career path ... question sanity ... oh, the string should be lowercased' is somewhere off the chart to the lower right." )
