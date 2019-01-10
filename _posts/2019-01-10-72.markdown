@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Multicloud
 categories: page
+permalink: /72
 image: multicloud.png
 date: 2019-01-10
-permalink: /
-n: /72
-n-minus-one: /71
 ---
 
 ![Multicloud]({{ site.url }}/pages/{{ page.image }} "An engineer getting excited about multicloud is like a child of divorce getting excited about two Christmases. Thank you for coming to my TED talk" )
