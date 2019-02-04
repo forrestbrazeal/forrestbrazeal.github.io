@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Cloud Migration Translator
+title: Chaos Engineering
 categories: page
-image: cloud-migration-translator.png
-date: 2019-01-24
+image: chaos-engineering
+date: 2019-01-31
 permalink: /
-n: /74
-n-minus-one: /73
+n: /75
+n-minus-one: /74
 ---
 
-![Cloud Migration Translator]({{ site.url }}/pages/{{ page.image }} "We tried, but failed, to translate what the CIO said about 'self-hosted serverless to avoid vendor lock-in'. It doesn't map to a coherent human thought." )
+![Chaos Engineering]({{ site.url }}/pages/{{ page.image }} "Anyone can create chaos, but to really screw things up requires an ENGINEER." )
