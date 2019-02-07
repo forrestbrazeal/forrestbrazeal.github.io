@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Safety Sign
 categories: page
+permalink: /76
 image: safety-sign.png
 date: 2019-02-07
-permalink: /
-n: /76
-n-minus-one: /75
 ---
 
 ![Safety Sign]({{ site.url }}/pages/{{ page.image }} "This one makes less sense the longer you think about it, which is true of most issues that turn out to be off-by-one errors." )
