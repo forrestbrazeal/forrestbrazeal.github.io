@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Titles
 categories: page
+permalink: /77
 image: titles.png
-date: 2019-02-14
-permalink: /
-n: /77
-n-minus-one: /76
+date: 2019-02-07
 ---
 
 ![Titles]({{ site.url }}/pages/{{ page.image }} "'Is there a job title for people who are great at building technical stuff, but bad at naming things? Oh, it's all of these titles? Great.'" )
