@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 tab_title: FaaS and Furious - A Cloud Guru #This text shows up on the browser tab
 email:
-url: https://forrestbrazeal.github.io # the base hostname & protocol for your site
+url: https://faasandfurious.com # the base hostname & protocol for your site
 
 # Comic Social Media
 twitter_username: https://twitter.com/acloudguru
