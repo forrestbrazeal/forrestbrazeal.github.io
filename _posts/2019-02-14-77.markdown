@@ -4,7 +4,7 @@ title: Titles
 categories: page
 permalink: /77
 image: titles.png
-date: 2019-02-07
+date: 2019-02-14
 ---
 
 ![Titles]({{ site.url }}/pages/{{ page.image }} "'Is there a job title for people who are great at building technical stuff, but bad at naming things? Oh, it's all of these titles? Great.'" )
