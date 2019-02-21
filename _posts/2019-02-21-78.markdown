@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Org Chart
 categories: page
+permalink: /78
 image: org-chart.png
 date: 2019-02-21
-permalink: /
-n: /78
-n-minus-one: /77
 ---
 
 ![Org Chart]({{ site.url }}/pages/{{ page.image }} "The good news is that we've solved the halting problem: this org has, in fact, come to a complete halt." )
