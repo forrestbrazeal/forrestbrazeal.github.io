@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Analysis Paralysis
 categories: page
+permalink: /81
 image: analysis-paralysis.png
 date: 2019-03-08
-permalink: /
-n: /81
-n-minus-one: /80
 ---
 
 ![Analysis Paralysis]({{ site.url }}/pages/{{ page.image }} "On the other hand, everyone will have to work nights and weekends to catch up on what they missed because they were in stupid meetings all day, so in that sense the meetings are free!")
