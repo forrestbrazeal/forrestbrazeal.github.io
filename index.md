@@ -9,4 +9,4 @@ n: /82
 n-minus-one: /81
 ---
 
-![Best-Laid Plans]({{ site.url }}/pages/{{ page.image }} "'Let's see ... Strengths: an army. Weaknesses: the other army. Opportunities: winning. Threats: (BLAM! POW!) ... Take cover, men! To the magic quadrant!'")
+![Best-Laid Plans]({{ site.url }}/pages/{{ page.image }} "'Hmm ... Strengths: an army. Weaknesses: the other army. Opportunities: winning. Threats: (BLAM! POW!) ... Take cover, everyone! To the magic quadrant!'")
