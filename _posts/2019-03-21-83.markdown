@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: AWS Bill
 categories: page
+permalink: /83
 image: aws-bill.png
 date: 2019-03-21
-permalink: /
-n: /83
-n-minus-one: /82
 ---
 
 ![AWS Bill]({{ site.url }}/pages/{{ page.image }} "Suggestions for minimizing the surprises on your AWS bill: 1) squint your eyes really tight and peek at it through your fingers; 2) keep your back to a corner so nothing can sneak up on you; 3) adopt classical Stoicism and never be surprised by anything again. Oh, you wanted practical advice?")
