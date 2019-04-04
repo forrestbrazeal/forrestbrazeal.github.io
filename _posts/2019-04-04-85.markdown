@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Balance Ball
+categories: page
+permalink: /85
+image: balance-ball.png
+date: 2019-04-04
+---
+
+![Balance Ball]({{ site.url }}/pages/{{ page.image }} "THE MOST ERGONOMIC SHOW ON EARTH")
