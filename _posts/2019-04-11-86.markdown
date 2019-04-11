@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Solutions Architect
+categories: page
+permalink: /86
+image: solutions-architect.png
+date: 2019-04-11
+---
+
+![Solutions Architect]({{ site.url }}/pages/{{ page.image }} "I also have great Hello World tutorials! What else could you need?")

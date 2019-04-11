@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Balance Ball
+title: Solutions Architect
 categories: page
-image: balance-ball.png
-date: 2019-04-04
+image: solutions-architect.png
+date: 2019-04-11
 permalink: /
-n: /85
-n-minus-one: /84
+n: /86
+n-minus-one: /85
 ---
 
-![Balance Ball]({{ site.url }}/pages/{{ page.image }} "THE MOST ERGONOMIC SHOW ON EARTH")
+![Solutions Architect]({{ site.url }}/pages/{{ page.image }} "I also have great Hello World tutorials! What else could you need?")
