@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Into The Breach
 categories: page
+permalink: /87
 image: into-the-breach.png
 date: 2019-04-18
-permalink: /
-n: /87
-n-minus-one: /86
 ---
 
 ![Into The Breach]({{ site.url }}/pages/{{ page.image }} "Headline, two months later: 'AMAZON BREACH LEAKS CREDIT CARD DATA. REPEAT: AMAZON CLOUD INSECURE.'")
