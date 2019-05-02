@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Side Project
 categories: page
+permalink: /89
 image: side-project.png
 date: 2019-05-02
-permalink: /
-n: /89
-n-minus-one: /88
 ---
 
 ![Side Project]({{ site.url }}/pages/{{ page.image }} "Protip: architect your side projects using the most arcane, overengineered combination of technologies you possibly can. This will get them out of your system and you can go back to writing normal code at your day job.")
