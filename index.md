@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Side Project
+title: Greenfield / Brownfield
 categories: page
-image: side-project.png
-date: 2019-05-02
+image: greenfield-brownfield.png
+date: 2019-05-09
 permalink: /
-n: /89
-n-minus-one: /88
+n: /90
+n-minus-one: /89
 ---
 
-![Side Project]({{ site.url }}/pages/{{ page.image }} "Protip: architect your side projects using the most arcane, overengineered combination of technologies you possibly can. This will get them out of your system and you can go back to writing normal code at your day job.")
+![Greenfield / Brownfield]({{ site.url }}/pages/{{ page.image }} "The grass is always greener on the other side of the refactor.")

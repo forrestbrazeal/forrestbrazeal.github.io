@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Greenfield / Brownfield
+categories: page
+permalink: /90
+image: greenfield-brownfield.png
+date: 2019-05-09
+---
+
+![Greenfield / Brownfield]({{ site.url }}/pages/{{ page.image }} "The grass is always greener on the other side of the refactor.")
