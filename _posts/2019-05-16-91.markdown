@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Ancient Wisdom
 categories: page
+permalink: /91
 image: ancient-wisdom.png
 date: 2019-05-16
-permalink: /
-n: /91
-n-minus-one: /90
 ---
 
 ![Ancient Wisdom]({{ site.url }}/pages/{{ page.image }} "(blows dust off tomb) 'Huh -- judging by the elaborate sarcophagus, these people were really into containers.'")
