@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: comic
 title: Feeling The Heat
 categories: page
+permalink: /92
 image: feeling-the-heat.png
 date: 2019-05-23
-permalink: /
-n: /92
-n-minus-one: /91
 ---
 
 ![Feeling The Heat]({{ site.url }}/pages/{{ page.image }} "Paradoxically, the strategy of 'freezing all changes' only made the fire burn brighter.")
