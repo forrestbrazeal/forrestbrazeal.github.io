@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Feeling The Heat
+title: Pipeline
 categories: page
-image: feeling-the-heat.png
-date: 2019-05-23
+image: pipeline.png
+date: 2019-05-30
 permalink: /
-n: /92
-n-minus-one: /91
+n: /93
+n-minus-one: /92
 ---
 
-![Feeling The Heat]({{ site.url }}/pages/{{ page.image }} "Paradoxically, the strategy of 'freezing all changes' only made the fire burn brighter.")
+![Pipeline]({{ site.url }}/pages/{{ page.image }} "Not that any of this would ever be documented, of course.")

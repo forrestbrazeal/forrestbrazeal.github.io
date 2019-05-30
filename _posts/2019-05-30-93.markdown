@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Pipeline
+categories: page
+permalink: /93
+image: pipeline.png
+date: 2019-05-30
+---
+
+![Pipeline]({{ site.url }}/pages/{{ page.image }} "Not that any of this would ever be documented, of course.")
