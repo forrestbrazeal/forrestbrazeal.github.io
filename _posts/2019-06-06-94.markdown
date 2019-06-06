@@ -1,0 +1,10 @@
+---
+layout: comic
+title: SQL Spectrum
+categories: page
+permalink: /94
+image: sql-spectrum.png
+date: 2019-06-06
+---
+
+![SQL Spectrum]({{ site.url }}/pages/{{ page.image }} "'Hoarders: DBA Edition' is a reality show that I and absolutely nobody else would watch every single day.")

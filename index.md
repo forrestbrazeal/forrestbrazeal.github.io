@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Pipeline
+title: SQL Spectrum
 categories: page
-image: pipeline.png
-date: 2019-05-30
+image: sql-spectrum.png
+date: 2019-06-06
 permalink: /
-n: /93
-n-minus-one: /92
+n: /94
+n-minus-one: /93
 ---
 
-![Pipeline]({{ site.url }}/pages/{{ page.image }} "Not that any of this would ever be documented, of course.")
+![SQL Spectrum]({{ site.url }}/pages/{{ page.image }} "'Hoarders: DBA Edition' is a reality show that I and absolutely nobody else would watch every single day.")
