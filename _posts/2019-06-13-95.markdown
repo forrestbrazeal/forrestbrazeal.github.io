@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Change Meeting
+categories: page
+permalink: /95
+image: change-meeting.png
+date: 2019-06-13
+---
+
+![Change Meeting]({{ site.url }}/pages/{{ page.image }} "I do see a dependency on the CIs for 'PANIC' and 'GENERAL MAYHEM' ... better take some scheudled downtime for this one.")

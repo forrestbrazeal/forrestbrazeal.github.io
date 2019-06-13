@@ -7,4 +7,4 @@ image: sql-spectrum.png
 date: 2019-06-06
 ---
 
-![SQL Spectrum]({{ site.url }}/pages/{{ page.image }} "'Hoarders: DBA Edition' is a reality show that I and absolutely nobody else would watch every single day.")
+![SQL Spectrum]({{ site.url }}/pages/{{ page.image }} "'Hoarders: DBA Edition' is a reality show that I and nobody else would watch absolutely every single day.")

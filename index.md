@@ -1,12 +1,12 @@
 ---
 layout: home
-title: SQL Spectrum
+title: Change Meeting
 categories: page
-image: sql-spectrum.png
-date: 2019-06-06
+image: change-meeting.png
+date: 2019-06-13
 permalink: /
-n: /94
-n-minus-one: /93
+n: /95
+n-minus-one: /94
 ---
 
-![SQL Spectrum]({{ site.url }}/pages/{{ page.image }} "'Hoarders: DBA Edition' is a reality show that I and absolutely nobody else would watch every single day.")
+![Change Meeting]({{ site.url }}/pages/{{ page.image }} "I do see a dependency on the CIs for 'PANIC' and 'GENERAL MAYHEM' ... better take some scheudled downtime for this one.")
