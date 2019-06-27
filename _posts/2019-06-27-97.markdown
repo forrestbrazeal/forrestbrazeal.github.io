@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Agile Journey
+categories: page
+permalink: /97
+image: agile-journey.png
+date: 2019-06-27
+---
+
+![Agile Journey]({{ site.url }}/pages/{{ page.image }} "It turns out the real agile transformation was the complete lack of transformation we made along the way.")
