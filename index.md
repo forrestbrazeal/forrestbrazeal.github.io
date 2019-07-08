@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Agile Journey
+title: Idempotence
 categories: page
-image: agile-journey.png
-date: 2019-06-27
+image: idempotence.png
+date: 2019-07-04
 permalink: /
-n: /97
-n-minus-one: /96
+n: /98
+n-minus-one: /97
 ---
 
-![Agile Journey]({{ site.url }}/pages/{{ page.image }} "It turns out the real agile transformation was the complete lack of transformation we made along the way.")
+![Idempotence]({{ site.url }}/pages/{{ page.image }} "If you do learn how to pronounce it, 'idempotence' is one of those words guaranteed to make you sound smarter in design meetings, along with 'control plane', 'anti-pattern', 'Conway's Law', and 'Let's take a step back and look at the big picture...'")
