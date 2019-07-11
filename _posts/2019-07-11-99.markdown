@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Shadow IT
+categories: page
+permalink: /99
+image: shadow-it.png
+date: 2019-07-11
+---
+
+![Shadow IT]({{ site.url }}/pages/{{ page.image }} "'What We Do In The Shadows' is a great movie about a bunch of zombies who are spinning up a secret AWS account on the corporate credit card.")
