@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Shadow IT
+title: Git Flow
 categories: page
-image: shadow-it.png
-date: 2019-07-11
+image: git-flow.png
+date: 2019-07-18
 permalink: /
-n: /99
-n-minus-one: /98
+n: /100
+n-minus-one: /99
 ---
 
-![Shadow IT]({{ site.url }}/pages/{{ page.image }} "'What We Do In The Shadows' is a great movie about a bunch of zombies who are spinning up a secret AWS account on the corporate credit card.")
+![Git Flow]({{ site.url }}/pages/{{ page.image }} "I can't merge it for you, Master Frodo. BUT I CAN TAG THE BRANCH 'STABLE DEV' AND POKE THE RELEVANT APPROVERS")
