@@ -1,0 +1,10 @@
+---
+layout: comic
+title: AWS Regions
+categories: page
+permalink: /101
+image: aws-regions.png
+date: 2019-07-25
+---
+
+![AWS Regions]({{ site.url }}/pages/{{ page.image }} "Tag yourself! (in regions that support tagging)")

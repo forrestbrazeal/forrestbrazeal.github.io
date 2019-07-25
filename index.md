@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Git Flow
+title: AWS Regions
 categories: page
-image: git-flow.png
-date: 2019-07-18
+image: aws-regions.png
+date: 2019-07-25
 permalink: /
-n: /100
-n-minus-one: /99
+n: /101
+n-minus-one: /100
 ---
 
-![Git Flow]({{ site.url }}/pages/{{ page.image }} "I can't merge it for you, Master Frodo. BUT I CAN TAG THE BRANCH 'STABLE DEV' AND POKE THE RELEVANT APPROVERS")
+![AWS Regions]({{ site.url }}/pages/{{ page.image }} "Tag yourself! (in regions that support tagging)")
