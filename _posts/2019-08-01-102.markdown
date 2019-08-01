@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Build vs Talk
+categories: page
+permalink: /102
+image: build-vs-talk.png
+date: 2019-08-01
+---
+
+![Build vs Talk]({{ site.url }}/pages/{{ page.image }} "The place where the lines cross is known as the Twitter Dev Equilibrium and correlates to a feeling of constant, low-grade anxiety")

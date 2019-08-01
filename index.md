@@ -1,12 +1,12 @@
 ---
 layout: home
-title: AWS Regions
+title: Build vs Talk
 categories: page
-image: aws-regions.png
-date: 2019-07-25
+image: build-vs-talk.png
+date: 2019-08-01
 permalink: /
-n: /101
-n-minus-one: /100
+n: /102
+n-minus-one: /101
 ---
 
-![AWS Regions]({{ site.url }}/pages/{{ page.image }} "Tag yourself! (in regions that support tagging)")
+![Build vs Talk]({{ site.url }}/pages/{{ page.image }} "The place where the lines cross is known as the Twitter Dev Equilibrium and correlates to a feeling of constant, low-grade anxiety")
