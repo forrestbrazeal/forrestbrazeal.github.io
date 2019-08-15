@@ -9,4 +9,4 @@ n: /104
 n-minus-one: /103
 ---
 
-![Fanfiction]({{ site.url }}/pages/{{ page.image }} "The chapter on Istio is a real page-turner, if you can get past the suspension of disbelief.")
+![Fanfiction]({{ site.url }}/pages/{{ page.image }} "The chapter about The Flaming Sword of Istio is a real page-turner, if you can get past the suspension of disbelief.")
