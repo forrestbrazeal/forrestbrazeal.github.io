@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Fanfiction
+categories: page
+permalink: /104
+image: fanfiction.png
+date: 2019-08-15
+---
+
+![Fanfiction]({{ site.url }}/pages/{{ page.image }} "The chapter on Istio is a real page-turner, if you can get past the suspension of disbelief.")
