@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Fanfiction
+title: Backlog Refinement
 categories: page
-image: fanfiction.png
-date: 2019-08-15
+image: backlog-refinement.png
+date: 2019-08-22
 permalink: /
-n: /104
-n-minus-one: /103
+n: /105
+n-minus-one: /104
 ---
 
-![Fanfiction]({{ site.url }}/pages/{{ page.image }} "The chapter about The Flaming Sword of Istio is a real page-turner, if you can get past the suspension of disbelief.")
+![Backlog Refinement]({{ site.url }}/pages/{{ page.image }} "I know they had to change the term to 'refinement' because 'grooming' sounded creepy, but I do think 'grooming' evokes the right image of a bunch of scrum masters picking lice out of each other's hair.")
