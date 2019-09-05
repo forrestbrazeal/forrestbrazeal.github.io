@@ -1,0 +1,10 @@
+---
+layout: comic
+title: CCOE
+categories: page
+permalink: /107
+image: ccoe.png
+date: 2019-09-05
+---
+
+![CCOE]({{ site.url }}/pages/{{ page.image }} "Our Cloud Donut of Dreadfulness, on the other hand...")

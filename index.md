@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Meteor
+title: CCOE
 categories: page
-image: meteor.png
-date: 2019-08-29
+image: ccoe.png
+date: 2019-09-05
 permalink: /
-n: /106
-n-minus-one: /105
+n: /107
+n-minus-one: /106
 ---
 
-![Meteor]({{ site.url }}/pages/{{ page.image }} "Has the Oort cloud never heard of canary deployments?")
+![CCOE]({{ site.url }}/pages/{{ page.image }} "Our Cloud Donut of Dreadfulness, on the other hand...")
