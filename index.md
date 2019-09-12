@@ -1,12 +1,12 @@
 ---
 layout: home
-title: CCOE
+title: After Serverless
 categories: page
-image: ccoe.png
-date: 2019-09-05
+image: after-serverless.png
+date: 2019-09-12
 permalink: /
-n: /107
-n-minus-one: /106
+n: /108
+n-minus-one: /107
 ---
 
-![CCOE]({{ site.url }}/pages/{{ page.image }} "Our Cloud Donut of Dreadfulness, on the other hand...")
+![After Serverless]({{ site.url }}/pages/{{ page.image }} "BUGLESS STILL HAS BUGS")

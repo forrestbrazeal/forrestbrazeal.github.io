@@ -1,0 +1,10 @@
+---
+layout: comic
+title: After Serverless
+categories: page
+permalink: /108
+image: after-serverless.png
+date: 2019-09-12
+---
+
+![After Serverless]({{ site.url }}/pages/{{ page.image }} "BUGLESS STILL HAS BUGS")
