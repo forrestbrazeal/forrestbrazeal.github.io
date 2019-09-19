@@ -1,12 +1,12 @@
 ---
 layout: home
-title: After Serverless
+title: Stonehenge
 categories: page
-image: after-serverless.png
-date: 2019-09-12
+image: stonehenge.png
+date: 2019-09-19
 permalink: /
-n: /108
-n-minus-one: /107
+n: /109
+n-minus-one: /108
 ---
 
-![After Serverless]({{ site.url }}/pages/{{ page.image }} "BUGLESS STILL HAS BUGS")
+![Stonehenge]({{ site.url }}/pages/{{ page.image }} "Meanwhile, over in Mesopotamia, the obelisk people were stressed about horizontal scale.")

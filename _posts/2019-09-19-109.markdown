@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Stonehenge
+categories: page
+permalink: /109
+image: stonehenge.png
+date: 2019-09-19
+---
+
+![Stonehenge]({{ site.url }}/pages/{{ page.image }} "Meanwhile, over in Mesopotamia, the obelisk people were stressed about horizontal scale.")
