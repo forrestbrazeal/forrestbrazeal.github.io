@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Hackathon
+categories: page
+permalink: /111
+image: hackathon.png
+date: 2019-10-03
+---
+
+![Hackathon]({{ site.url }}/pages/{{ page.image }} "Life is like a unicorn startup: unrealistic optimism on what seems like an infinite timeline, and then everything ends much too quickly. Also you end up playing a lot of ping pong for some reason")

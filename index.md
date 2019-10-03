@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Evolution of Compute
+title: Hackathon
 categories: page
-image: evolution-of-compute.png
-date: 2019-09-26
+image: hackathon.png
+date: 2019-10-03
 permalink: /
-n: /110
-n-minus-one: /109
+n: /111
+n-minus-one: /110
 ---
 
-![Evolution of Compute]({{ site.url }}/pages/{{ page.image }} "The full pantheon included Alexa, goddess of power; Cortana, goddess of not being Alexa; Siri: goddess of unfulfilled promises; Clippy, The Elder God...")
+![Hackathon]({{ site.url }}/pages/{{ page.image }} "Life is like a unicorn startup: unrealistic optimism on what seems like an infinite timeline, and then everything ends much too quickly. Also you end up playing a lot of ping pong for some reason")
 
