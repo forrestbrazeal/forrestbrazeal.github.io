@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Seat at the Table
+categories: page
+permalink: /112
+image: seat-at-the-table.png
+date: 2019-10-10
+---
+
+![Seat at the Table]({{ site.url }}/pages/{{ page.image }} "Featuring the inglorious return of .JS Bro, first glimpsed all the way back in https://faasandfurious.com/22")

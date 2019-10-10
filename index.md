@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Hackathon
+title: Seat at the Table
 categories: page
-image: hackathon.png
-date: 2019-10-03
+image: seat-at-the-table.png
+date: 2019-10-10
 permalink: /
-n: /111
-n-minus-one: /110
+n: /112
+n-minus-one: /111
 ---
 
-![Hackathon]({{ site.url }}/pages/{{ page.image }} "Life is like a unicorn startup: unrealistic optimism on what seems like an infinite timeline, and then everything ends much too quickly. Also you end up playing a lot of ping pong for some reason")
+![Seat at the Table]({{ site.url }}/pages/{{ page.image }} "Featuring the inglorious return of .JS Bro, first glimpsed all the way back in https://faasandfurious.com/22")
 
