@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Seat at the Table
+title: Data Loss
 categories: page
-image: seat-at-the-table.png
-date: 2019-10-10
+image: data-loss.png
+date: 2019-10-17
 permalink: /
-n: /112
-n-minus-one: /111
+n: /113
+n-minus-one: /112
 ---
 
-![Seat at the Table]({{ site.url }}/pages/{{ page.image }} "Featuring the inglorious return of .JS Bro, first glimpsed all the way back in https://faasandfurious.com/22")
+![Data Loss]({{ site.url }}/pages/{{ page.image }} "(as new laptop collapses into a pile of dust) 'Those were load-bearing stickers!'")
 
