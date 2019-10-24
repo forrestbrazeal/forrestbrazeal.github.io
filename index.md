@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Data Loss
+title: Back Door Lock-In
 categories: page
-image: data-loss.png
-date: 2019-10-17
+image: back-door-lockin.png
+date: 2019-10-24
 permalink: /
-n: /113
-n-minus-one: /112
+n: /114
+n-minus-one: /113
 ---
 
-![Data Loss]({{ site.url }}/pages/{{ page.image }} "(as new laptop collapses into a pile of dust) 'Those were load-bearing stickers!'")
+![Back Door Lock-In]({{ site.url }}/pages/{{ page.image }} "'Kubernetes' is an old Greek word meaning 'cognitive dissonance'.")
 
