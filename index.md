@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Back Door Lock-In
+title: Initial Push
 categories: page
-image: back-door-lockin.png
-date: 2019-10-24
+image: initial-push.png
+date: 2019-10-31
 permalink: /
-n: /114
-n-minus-one: /113
+n: /115
+n-minus-one: /114
 ---
 
-![Back Door Lock-In]({{ site.url }}/pages/{{ page.image }} "'Kubernetes' is an old Greek word meaning 'cognitive dissonance'.")
+![Initial Push]({{ site.url }}/pages/{{ page.image }} "At least he has it memorized. I usually have to copy and paste from the error message.")
 

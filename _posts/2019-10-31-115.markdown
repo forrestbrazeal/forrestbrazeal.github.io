@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Initial Push
+categories: page
+permalink: /115
+image: initial-push.png
+date: 2019-10-31
+---
+
+![Initial Push]({{ site.url }}/pages/{{ page.image }} "At least he has it memorized. I usually have to copy and paste from the error message.")
