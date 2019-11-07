@@ -1,13 +1,12 @@
 ---
 layout: home
-title: Initial Push
+title: Cloud-Related Injuries
 categories: page
-image: initial-push.png
-date: 2019-10-31
+image: cloud-related-injuries.png
+date: 2019-11-07
 permalink: /
-n: /115
-n-minus-one: /114
+n: /116
+n-minus-one: /115
 ---
 
-![Initial Push]({{ site.url }}/pages/{{ page.image }} "At least he has it memorized. I usually have to copy and paste from the error message.")
-
+![Cloud-Related Injuries]({{ site.url }}/pages/{{ page.image }} "Save a life -- know the warning signs of an allergic reaction to YAML! First, the body becomes covered with small, irregular indentations...")
