@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Impostor
+categories: page
+permalink: /117
+image: impostor.png
+date: 2019-11-14
+---
+
+![Impostor]({{ site.url }}/pages/{{ page.image }} "(pulls off mask) and I would have gotten away with it too, if it wasn't for my excessively loud typing as I struggled to quit vi...")

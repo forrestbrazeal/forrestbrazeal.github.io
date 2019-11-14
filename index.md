@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Cloud-Related Injuries
+title: Impostor
 categories: page
-image: cloud-related-injuries.png
-date: 2019-11-07
+image: impostor.png
+date: 2019-11-14
 permalink: /
-n: /116
-n-minus-one: /115
+n: /117
+n-minus-one: /116
 ---
 
-![Cloud-Related Injuries]({{ site.url }}/pages/{{ page.image }} "Save a life -- know the warning signs of an allergic reaction to YAML! First, the body becomes covered with small, irregular indentations...")
+![Impostor]({{ site.url }}/pages/{{ page.image }} "(pulls off mask) and I would have gotten away with it too, if it wasn't for my excessively loud typing as I struggled to quit vi...")
