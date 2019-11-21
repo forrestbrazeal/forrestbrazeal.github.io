@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Impostor
+title: Communication Breakdown
 categories: page
-image: impostor.png
-date: 2019-11-14
+image: communication-breakdown.png
+date: 2019-11-21
 permalink: /
-n: /117
-n-minus-one: /116
+n: /118
+n-minus-one: /117
 ---
 
-![Impostor]({{ site.url }}/pages/{{ page.image }} "(pulls off mask) and I would have gotten away with it too, if it wasn't for my excessively loud typing as I struggled to quit vi...")
+![Communication Breakdown]({{ site.url }}/pages/{{ page.image }} "*Sets Slack status to /parley*")

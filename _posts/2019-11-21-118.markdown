@@ -1,0 +1,10 @@
+---
+layout: comic
+title: Communication Breakdown
+categories: page
+permalink: /118
+image: communication-breakdown.png
+date: 2019-11-21
+---
+
+![Communication Breakdown]({{ site.url }}/pages/{{ page.image }} "*Sets Slack status to /parley*")
