@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Communication Breakdown
+title: Family Tensions
 categories: page
-image: communication-breakdown.png
-date: 2019-11-21
+image: family-tensions.png
+date: 2019-11-27
 permalink: /
-n: /118
-n-minus-one: /117
+n: /119
+n-minus-one: /118
 ---
 
-![Communication Breakdown]({{ site.url }}/pages/{{ page.image }} "*Sets Slack status to /parley*")
+![Family Tensions]({{ site.url }}/pages/{{ page.image }} "The secrets to a harmonious holiday feast: whipped cream saves a burnt pie, make the rolls the night before, and don't get Uncle Frank started on mandatory code review.")
