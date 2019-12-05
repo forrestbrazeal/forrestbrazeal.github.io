@@ -1,0 +1,10 @@
+---
+layout: comic
+title: "AWS re:Invent 2019: Spacklepunch"
+categories: page
+permalink: /122
+image: spacklepunch.png
+date: 2019-12-05
+---
+
+![Spacklepunch]({{ site.url }}/pages/{{ page.image }} "Remember, kids -- six weeks of hacking together a workaround can save you six weeks and one day of waiting for AWS to release the feature you need.")
