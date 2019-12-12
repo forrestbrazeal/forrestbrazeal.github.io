@@ -1,0 +1,10 @@
+---
+layout: comic
+title: "Scream Test"
+categories: page
+permalink: /123
+image: scream-test.png
+date: 2019-12-12
+---
+
+![Scream Test]({{ site.url }}/pages/{{ page.image }} "You say malpractice, I say responsible OpEx governance.")
