@@ -1,0 +1,10 @@
+---
+layout: comic
+title: "Sure Things"
+categories: page
+permalink: /124
+image: sure-things.png
+date: 2019-12-19
+---
+
+![Sure Things]({{ site.url }}/pages/{{ page.image }} "Zombie Jeff Bezos just tells you to buy AWS, though.")
