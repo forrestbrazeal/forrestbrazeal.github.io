@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Sure Things"
+title: "Starlight"
 categories: page
-image: sure-things.png
-date: 2019-12-19
+image: starlight.png
+date: 2019-12-26
 permalink: /
-n: /124
-n-minus-one: /123
+n: /125
+n-minus-one: /124
 ---
 
-![Sure Things]({{ site.url }}/pages/{{ page.image }} "Zombie Jeff Bezos just tells you to buy AWS, though.")
+![Starlight]({{ site.url }}/pages/{{ page.image }} "Starlight, star bright, first star I see tonight, I wish I may, I wish I might, access all the resources I want because you did not follow the principle of least privilege.")

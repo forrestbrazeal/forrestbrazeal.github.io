@@ -1,0 +1,10 @@
+---
+layout: comic
+title: "Starlight"
+categories: page
+permalink: /125
+image: starlight.png
+date: 2019-12-26
+---
+
+![Starlight]({{ site.url }}/pages/{{ page.image }} "Starlight, star bright, first star I see tonight, I wish I may, I wish I might, access all the resources I want because you did not follow the principle of least privilege.")
