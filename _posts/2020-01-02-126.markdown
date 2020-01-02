@@ -1,0 +1,10 @@
+---
+layout: comic
+title: "Man in the Middle"
+categories: page
+permalink: /126
+image: man-in-the-middle.png
+date: 2020-01-02
+---
+
+![Man in the Middle]({{ site.url }}/pages/{{ page.image }} "Alice and Bob wanted to talk privately, but Eve was always listening. Eve, if you could wave a magic wand, what positive change would you make to this situation?")

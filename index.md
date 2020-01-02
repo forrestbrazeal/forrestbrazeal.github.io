@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Starlight"
+title: "Man in the Middle"
 categories: page
-image: starlight.png
-date: 2019-12-26
+image: man-in-the-middle.png
+date: 2020-01-02
 permalink: /
-n: /125
-n-minus-one: /124
+n: /126
+n-minus-one: /125
 ---
 
-![Starlight]({{ site.url }}/pages/{{ page.image }} "Starlight, star bright, first star I see tonight, I wish I may, I wish I might, access all the resources I want because you did not follow the principle of least privilege.")
+![Man in the Middle]({{ site.url }}/pages/{{ page.image }} "Alice and Bob wanted to talk privately, but Eve was always listening. Eve, if you could wave a magic wand, what positive change would you make to this situation?")
