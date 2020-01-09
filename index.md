@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Man in the Middle"
+title: "Cloud Environments"
 categories: page
-image: man-in-the-middle.png
-date: 2020-01-02
+image: cloud-environments.png
+date: 2020-01-09
 permalink: /
-n: /126
-n-minus-one: /125
+n: /127
+n-minus-one: /126
 ---
 
-![Man in the Middle]({{ site.url }}/pages/{{ page.image }} "Alice and Bob wanted to talk privately, but Eve was always listening. Eve, if you could wave a magic wand, what positive change would you make to this situation?")
+![Cloud Environments]({{ site.url }}/pages/{{ page.image }} "At one place I worked, we had an AWS account informally known as 'the boneyard', where we migrated all the apps that couldn't meet the architecture or automation standards of 'real' production. This quickly became the largest environment at the company.")
