@@ -1,0 +1,10 @@
+---
+layout: comic
+title: "Sandbox"
+categories: page
+permalink: /128
+image: sandbox.png
+date: 2020-01-16
+---
+
+![Sandbox]({{ site.url }}/pages/{{ page.image }} "*sits on sand castle* 'Mommmm! She's pen-testing me again!'")
