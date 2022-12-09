@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://faasandfurious.com"
+  to = "https://www.goodtechthings.com"
+  status = 301
+  force = true
